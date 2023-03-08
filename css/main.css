@@ -302,3 +302,13 @@ main {
     background-color: var(--type-fairy);
     color: var(--clr-black);
 }
+
+hr {
+    margin-top: 300px;
+}
+
+
+.logoces { 
+    display: flex;
+    justify-content: center;
+}
